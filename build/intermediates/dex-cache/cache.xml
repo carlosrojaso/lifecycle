@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/Android/lifecycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/Android/lifecycle/app/build/intermediates/pre-dexed/debug/classes-0f70d591f6128f6451b482dce8ba3869fe9d3864.jar" />
+    </item>
+    <item
+        jar="/Users/carlosrojas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/Android/lifecycle/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5987e4b265552bce15dff58964e0686b83345e34.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/Android/lifecycle/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/Android/lifecycle/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-42d60b5a73f4109518c9b1f24be3e21ecb269ef2.jar" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/playground/Android/lifecycle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/playground/Android/lifecycle/app/build/intermediates/pre-dexed/debug/classes-00d2536832c601ef1d97129a549f4480f166fd32.jar" />
+    </item>
+
+</items>
